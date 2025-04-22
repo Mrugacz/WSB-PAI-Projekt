@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-migrate
+flask-bcrypt
+flask-login
+flask-wtf
+gunicorn
+pytest
+pytest-cov
